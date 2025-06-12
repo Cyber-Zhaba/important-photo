@@ -60,4 +60,5 @@
 ![funny-cats-funny.gif](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/funny-cats-funny.gif?raw=true)
 ![rigby-cat-rigby.gif](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/rigby-cat-rigby.gif?raw=true)
 ![school-in-the-morning-be-like.gif](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/school-in-the-morning-be-like.gif?raw=true)
+![wheatley-portal.gif](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/wheatley-portal.gif?raw=true)
 
