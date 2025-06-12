@@ -3,6 +3,8 @@
 ## Photos
 
 ![aAaAa_cat_n_Freddy.png](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/aAaAa_cat_n_Freddy.png?raw=true)
+![absolute-cinema.jpg](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/absolute-cinema.jpg?raw=true)
+![absolute-freaky.jpg](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/absolute-freaky.jpg?raw=true)
 ![age_is_just_a_number.jpg](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/age_is_just_a_number.jpg?raw=true)
 ![cat_screaming.png](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/cat_screaming.png?raw=true)
 ![chill_n_juice.jpg](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/chill_n_juice.jpg?raw=true)
@@ -57,6 +59,7 @@
 ## GIFs
 
 ![ahh.gif](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/ahh.gif?raw=true)
+![aww-hell-nahh.gif](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/aww-hell-nahh.gif?raw=true)
 ![funny-cats-funny.gif](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/funny-cats-funny.gif?raw=true)
 ![rigby-cat-rigby.gif](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/rigby-cat-rigby.gif?raw=true)
 ![school-in-the-morning-be-like.gif](https://github.com/Cyber-Zhaba/important-photo/blob/master/data/school-in-the-morning-be-like.gif?raw=true)
